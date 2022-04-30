@@ -1,3 +1,7 @@
 {
+    "compilerOptions": {
+        "module": "nodenext",
+        "noUnusedLocals": false
+    },
     "include": ["src/**/*.js", "src/**/*.ts"]
 }
