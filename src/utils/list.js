@@ -16,3 +16,4 @@ export function createLinkList(arrayList) {
     }
     return linkList;
 }
+
