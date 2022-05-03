@@ -1,4 +1,4 @@
-interface ListNode<E extends any> {
+interface ListNode<E=any> {
     val: E;
     next: ListNode<E>;
 }
