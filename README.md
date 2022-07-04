@@ -2,7 +2,7 @@
 
 每逢面试就刷题~
 
-**小目标**：按 tag 刷个 200 道题，当前进度：![progress](https://img.shields.io/badge/-26%2F200-green)
+**小目标**：按 tag 刷个 200 道题，当前进度：![progress](https://img.shields.io/badge/-27%2F200-green)
 
 ## 链表
 
@@ -31,6 +31,7 @@
 - 104-二叉树的最大深度
 - 112-路径总和
 - 100-相同的树
+- 257-二叉树的所有路径
 
 ## 数组
 
