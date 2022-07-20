@@ -1,4 +1,6 @@
-# 2022 年 leetcode 刷题记录
+# 2022 年 LeetCode 刷题记录
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tjx666.leetcode-js-2022&left_color=red&right_color=green&left_text=HelloVisitors)
 
 每逢面试就刷题~
 
